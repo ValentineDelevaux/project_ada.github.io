@@ -22,8 +22,8 @@ title: Horror movies, the collective nightmares of society
 email: Team abracAD4bra
 description:  # this means to ignore newlines until "baseurl:"
 
-domain: ada.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://ada.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: ADA.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://ADA.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: "/project_ada.github.io"     # place folder name if the site is served in a subfolder
 
 
